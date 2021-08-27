@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WinfoxTestApp</string>
+
+    <!-- Регистрация -->
+
+    <string name="registration_activity_title">Регистрация</string>
+    <string name="registration_activity_user_name">ФИО</string>
+    <string name="registration_activity_user_email">Email</string>
+    <string name="registration_activity_password">Пароль</string>
+    <string name="registration_activity_repeat_password">Повторите пароль</string>
+
+    <string name="registration_activity_name_not_valid">Некорректный формат фамилии, имени или отчества</string>
+    <string name="registration_activity_email_not_valid">Некоректный формат электронной почты</string>
+    <string name="registration_activity_first_password_not_valid">Пароль должен состоять как минимум из 1 символа</string>
+    <string name="registration_activity_second_password_not_valid">Пароли не совпадают</string>
+
+    <!-- Авторизация -->
+
+    <string name="authorization_activity_title">Авторизация</string>
+
+</resources>
